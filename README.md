@@ -4,7 +4,7 @@ The rapid development of spatially resolved transcriptomics has made it possible
 
 Framework
 
-![image](https://github.com/xiaoyeye/SPRI/tree/main/figure/figure1.png)
+![image](https://github.com/xiaoyeye/CCST/blob/main/figure/figure1.png)
 
 
 # 1. Requirements 
