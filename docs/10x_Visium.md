@@ -9,7 +9,7 @@
 
 Visium technology:
 
-Figure.........
+Figure placeholder
 
 In this tutorial, LIBD data was tested.  The LIBD of slice 151507 data to run this tutorial can be found [here](http://science.sciencemag.org/content/353/6294/78).
 
