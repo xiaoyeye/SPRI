@@ -4,8 +4,6 @@
 
 SPATIAL research obtained spatial expression data with a Spatial Transcriptomics (ST) platform recent years. The geometric representations of ST is rectangular. 
 
-Visium technology:
-
 Figure placeholder
 
 First, we read the MOB Replicate 11 data and pre-process it.
