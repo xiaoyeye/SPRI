@@ -18,11 +18,13 @@ minepy==1.2.5
 statsmodels==0.9.0
 
 
+
 ## Tutorials
 
 1. [MOB11 Analysis](https://github.com/xiaoyeye/SPRI/blob/main/docs/MOB11.md)
 
 2. [10x Visium Analysis](https://github.com/xiaoyeye/SPRI/blob/main/docs/10x_Visium.md)
+
 
 
 ## Data:
