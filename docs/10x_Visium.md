@@ -1,24 +1,11 @@
----
-title: "10x Visium Analysis with SPRI"
-author: "Jin-Xian Hu"
-output: rmarkdown::html_document
-vignette: >
-  %\VignetteIndexEntry{10x Visium Analysis with SPRI}
-  %\VignetteEncoding{UTF-8}
-  %\VignetteEngine{knitr::rmarkdown}
----
 
-```{r, options, include = FALSE}
-library(knitr)
-opts_chunk$set(
-    cache = FALSE,
-    results = "hold"
-)
-```
+# 10x Visium Analysis with SPRI
+
 
 # Dataset explanation
 
 10X genomics obtained spatial expression data with a a Visium platform. The geometric representations of ST is rectangular. 
+10X genomics recently launched a new platform to obtain spatial expression data using a Visium Spatial Gene Expression slide. Visium platform produces a sampling distribution that is hexagonal. The geometric representations of Visium technologt is hexagonal. 
 
 Visium technology:
 
