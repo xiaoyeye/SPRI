@@ -29,4 +29,4 @@ statsmodels==0.9.0
 
 ## Data:
 
-Data is avalieble at https://www.spatialresearch.org/.
+Data is avalieble at https://www.spatialresearch.org/
