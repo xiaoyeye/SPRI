@@ -17,11 +17,12 @@ minepy==1.2.5
 
 statsmodels==0.9.0
 
+scanpy==1.8.2
 
 
 ## Tutorials
 
-1. [MOB11 Analysis](https://github.com/xiaoyeye/SPRI/blob/main/docs/MOB11.md)
+1. [Breast cancer Analysis](https://github.com/xiaoyeye/SPRI/blob/main/docs/BC.md)
 
 2. [10x Visium Analysis](https://github.com/xiaoyeye/SPRI/blob/main/docs/10x_Visium.md)
 
@@ -29,4 +30,8 @@ statsmodels==0.9.0
 
 ## Data:
 
-Data is avalieble at https://www.spatialresearch.org/
+ST data is avalieble at https://www.spatialresearch.org/.
+
+LIBD human dorsolateral prefrontal cortex, dorsolateral prefrontal cortex 10x Visium data data is avalieble at http://research.libd.org/spatialLIBD/).
+
+Adult Mouse Brain and Kidney data is avalieble at https://www.10xgenomics.com/resources/datasets/).
